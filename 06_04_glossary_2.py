@@ -1,0 +1,11 @@
+Glossary = {'program0': 'Variables', 'program1': 'If statements','program2': 'Lists', 'program3': 'Data Tpes', 'program4': 'Dicitionaires', 'program5': 'loops' , 'program6': 'function', 'program7': 'descriptor ', 'program8': 'class' , 'program9': 'object'} 
+print(f"Sotrage that is paired with a data that has value are {Glossary['program0']}.")
+print(f"Allows you to make decisions on conditions are  {Glossary['program1']}.")
+print(f"Sequnece of variables that are under single name are  {Glossary['program2']}.")
+print(f"Grouping of sets that represent values are {Glossary['program3']}.")
+print(f"Data structure that has collection of sets are  {Glossary['program4']}.")
+print(f"structure in python that repeats varibles are {Glossary['program5']}.")
+print(f"block of code used to perform singke action are   {Glossary['program6']}.")
+print(f"used to write codes underlying functions of objects are   {Glossary['program7']}.")
+print(f"a core term in python that is a blueprit for objects are called  {Glossary['program8']}.")
+print(f"first python term becuase evrything in python is called a   {Glossary['program9']}.")
